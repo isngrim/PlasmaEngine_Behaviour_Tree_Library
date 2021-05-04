@@ -1,0 +1,8 @@
+[Version:1]
+ContentLibrary 
+{
+	var Name = "PlasmaEngine_Behaviour_Tree_Library"
+	var LibraryId = 0x60c9c9501b8d7e70
+	var SourceControlType = ""
+	var ReadOnly = false
+}

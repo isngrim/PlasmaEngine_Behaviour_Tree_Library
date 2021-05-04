@@ -1,0 +1,38 @@
+[Version:1]
+Cog 
+{
+	var Name = ""
+	ProjectSettings 
+	{
+		var ProjectName = "PlasmaEngine_Behaviour_Tree_Library"
+		var ProjectOwner = ""
+		var DefaultLevel = "Level"
+		var ProjectSpace = "Space"
+		var AutoTakeProjectScreenshot = true
+		var Guid = 0x4326904001769b30
+		var libraries = ""
+	}
+	WindowLaunchSettings 
+	{
+		var LaunchFullscreen = true
+		var WindowedResolution = Integer2{1280, 720}
+	}
+	FrameRateSettings 
+	{
+		var VerticalSync = false
+		var LimitFrameRate = true
+		var FrameRate = 60
+	}
+	LauncherProjectInfo 
+	{
+		var Tags = ""
+		var Application = "PlasmaEditor"
+		var Branch = "Master"
+		var MajorVersion = 0
+		var MinorVersion = 1
+		var PatchVersion = 5
+		var RevisionId = 0
+		var ShortChangeSet = "fc0f10c"
+		var PackageExtension = "plasmabuild"
+	}
+}

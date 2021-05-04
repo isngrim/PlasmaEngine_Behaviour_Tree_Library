@@ -1,0 +1,15 @@
+// MIT Licensed (see LICENSE.md).
+
+class BehaviorTree : LightningComponent
+{
+  var TreeRoot : BTNode;
+  var BehaviorStarted : Boolean;
+  var Blackboard : BlackBoard;
+  var Root : BTNode {get{return this.TreeRoot;}}
+  
+    function Initialize(init : CogInitializer)
+  {
+
+    //Plasma.Connect(this.Space, Events.LogicUpdate, this.OnLogicUpdate);
+  }
+}

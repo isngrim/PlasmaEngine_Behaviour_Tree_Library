@@ -1,0 +1,16 @@
+[Version:1]
+TextContent 
+{
+	LightningScriptBuilder 
+	{
+		var Name = "BehaviorTree"
+		var ResourceId = 0x60c9af358dc2695d
+	}
+	ContentTags 
+	{
+		var Tags = Array
+		{
+			"BehaviorTree"
+		}
+	}
+}

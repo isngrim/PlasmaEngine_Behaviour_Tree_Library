@@ -1,0 +1,19 @@
+// MIT Licensed (see LICENSE.md).
+enum Result
+{
+  Running,
+  Failure,
+  Success,
+  Terminated
+}
+class BTNode 
+{
+  var Result : Result;
+  var BehaviorTree : BehaviorTree;
+  
+  constructor(tree : BehaviorTree)
+  {
+    this.BehaviorTree = tree;
+  }
+
+}

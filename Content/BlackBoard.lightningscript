@@ -1,0 +1,7 @@
+// MIT Licensed (see LICENSE.md).
+
+class BlackBoard : LightningComponent
+{
+  [Property]
+  var PlayerLocation : Real3;
+}

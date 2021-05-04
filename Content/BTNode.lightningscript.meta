@@ -1,0 +1,18 @@
+[Version:1]
+TextContent 
+{
+	LightningScriptBuilder 
+	{
+		var Name = "BTNode"
+		var ResourceId = 0x60c9ae10db1a3e2d
+	}
+	ContentTags 
+	{
+		var Tags = Array
+		{
+			"BehaviorTree"
+			"LightningScript"
+			"Nodes"
+		}
+	}
+}
