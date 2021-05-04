@@ -9,7 +9,7 @@ class BehaviorTree : LightningComponent
   
     function Initialize(init : CogInitializer)
   {
-
+//tacos
     //Plasma.Connect(this.Space, Events.LogicUpdate, this.OnLogicUpdate);
   }
 }
